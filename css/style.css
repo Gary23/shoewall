@@ -3,6 +3,7 @@
     padding: 0;
 }
 
+/*顶部图片和文字*/
 #top {
     width: auto;
     height: 300px;
@@ -43,7 +44,7 @@
     height: 60px;
 }
 
-
+/*按钮*/
 #btn{
     /*margin: 50px 0;*/
     display: block;
@@ -69,7 +70,7 @@
     box-shadow: 0 0 0 #666666;
 }
 
-
+/*瀑布流的图片图区*/
 #main {
     position: relative;
     width: 1000px;
@@ -96,7 +97,8 @@
 
 #main .pic img{
     width: 212px;
-    height: auto;
+    /*height: 170px;*/
+    /*height: auto;*/
 }
 
 #main .content {
