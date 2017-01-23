@@ -21,6 +21,8 @@
     color: #fff;
 }
 
+
+
 #logo{
     width: auto;
     height: 60px;
@@ -35,8 +37,9 @@
     overflow: hidden;
 }
 #logo .icon div{
-    width: 33%;
+    width: 25%;
     float: left;
+    text-align: center;
 }
 #logo .icon div img{
     display: block;
